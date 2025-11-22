@@ -1,0 +1,2 @@
+rootProject.name = 'iPhone17ProLookCam'
+include ':app'
